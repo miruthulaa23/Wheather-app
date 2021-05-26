@@ -33,10 +33,10 @@ body {
     margin-top:20px;
     width: 200px;
     height: 200px;
-    border-radius: 50%;
+    border-radius: 25%;
     background: url("./download (1).jpeg") no-repeat;
     background-size: 235px 235px;
-    background-position-x: -35px;
+    background-position-x: -25px;
     /* border: 3px solid #585858; */
 }
 
